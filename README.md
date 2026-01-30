@@ -1,27 +1,28 @@
 ## Hi there 👋
-# Hi, I’m SOUBER ISMAEL 👋
+# Hi, I’m SOUBER ISMAEL
 
-🔧 Embedded Firmware Engineer  
+🔧 Embedded Firmware Engineer  & IOT
 📍 France
 
 ---
 
 ## 🧠 What I Do
 
-I design and develop **embedded firmware** for microcontroller-based systems, with a strong focus on:
+I design and develop **embedded firmware** for microcontroller-based and **IoT systems**, with a focus on:
 - MCU architecture and memory-mapped I/O
 - Bare-metal and RTOS-based firmware
-- Reliable, well-structured Embedded C code
+- Wireless connectivity for embedded devices (Wi-Fi, BLE)
 
-I like working close to the hardware and understanding how systems behave at low level.
+I enjoy working close to the hardware and building reliable systems under real constraints.
 
 ---
 
 ## 🛠️ Technical Focus
 
 - Embedded C
-- ARM Cortex-M / STM32
-- FreeRTOS (tasks, queues, mutexes)
+- ARM Cortex-M / STM32 / ESP32
+- FreeRTOS
+- Wi-Fi & Bluetooth Low Energy (BLE)
 - GPIO, UART, SPI, I2C, ADC
 - Firmware architecture & debugging
 
@@ -31,7 +32,8 @@ I like working close to the hardware and understanding how systems behave at low
 
 - STM32 **bare-metal** projects (register-level, no HAL)
 - RTOS design and timing behavior
-- Clean firmware architecture for scalable systems
+- IoT firmware with **Wi-Fi and BLE connectivity**
+- Clean, scalable firmware architecture
 
 ---
 
@@ -40,7 +42,8 @@ I like working close to the hardware and understanding how systems behave at low
 My repositories focus on:
 - MCU architecture exploration
 - Register-level peripheral drivers
-- RTOS-based firmware experiments
+- RTOS-based firmware
+- IoT connectivity experiments (Wi-Fi / BLE)
 
 ---
 
