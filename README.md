@@ -49,5 +49,5 @@ My repositories focus on:
 
 ## 📫 Contact
 
-- 💼 LinkedIn: www.linkedin.com/in/souber-web/
+- 💼 LinkedIn: linkedin.com/in/souber-web
 - 📧 Email: ismaelsouber2@gmail.com
