@@ -1,16 +1,50 @@
 ## Hi there 👋
+# Hi, I’m [Your Name] 👋
 
-<!--
-**Souber-ismael/Souber-ismael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Embedded Firmware Engineer  
+📍 France
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Do
+
+I design and develop **embedded firmware** for microcontroller-based systems, with a strong focus on:
+- MCU architecture and memory-mapped I/O
+- Bare-metal and RTOS-based firmware
+- Reliable, well-structured Embedded C code
+
+I like working close to the hardware and understanding how systems behave at low level.
+
+---
+
+## 🛠️ Technical Focus
+
+- Embedded C
+- ARM Cortex-M / STM32
+- FreeRTOS (tasks, queues, mutexes)
+- GPIO, UART, SPI, I2C, ADC
+- Firmware architecture & debugging
+
+---
+
+## 🔬 Current Focus
+
+- STM32 **bare-metal** projects (register-level, no HAL)
+- RTOS design and timing behavior
+- Clean firmware architecture for scalable systems
+
+---
+
+## 📁 Projects
+
+My repositories focus on:
+- MCU architecture exploration
+- Register-level peripheral drivers
+- RTOS-based firmware experiments
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: linkedin.com/in/souber-web
+- 📧 Email: ismaelsouber2@gmail.com
