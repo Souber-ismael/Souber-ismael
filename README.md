@@ -1,7 +1,7 @@
 ## Hi there 👋
 #  I’m SOUBER ISMAEL
 
-🔧 Embedded Firmware Engineer  & IOT
+🔧 Embedded Firmware  & IOT Engineer
 📍 France
 
 ---
