@@ -1,53 +1,49 @@
-## Hi there 👋
-#  I’m SOUBER ISMAEL
+# Hi, I'm Souber 👋
 
-🔧 Embedded Firmware  & IOT Engineer
-📍 France
+Embedded Firmware Engineer — Low-level C | 
+FreeRTOS | STM32 | ESP32
 
----
-
-## 🧠 What I Do
-
-I design and develop **embedded firmware** for microcontroller-based and **IoT systems**, with a focus on:
-- MCU architecture and memory-mapped I/O
-- Bare-metal and RTOS-based firmware
-- Wireless connectivity for embedded devices (Wi-Fi, BLE)
-
-I enjoy working close to the hardware and building reliable systems under real constraints.
+📍 France | 💼 Open to CDI opportunities
 
 ---
 
-## 🛠️ Technical Focus
+## 🔧 What I Do
 
-- Embedded C
-- ARM Cortex-M / STM32 / ESP32
-- FreeRTOS
-- Wi-Fi & Bluetooth Low Energy (BLE)
-- GPIO, UART, SPI, I2C, ADC
-- Firmware architecture & debugging
-
----
-
-## 🔬 Current Focus
-
-- STM32 **bare-metal** projects (register-level, no HAL)
-- RTOS design and timing behavior
-- IoT firmware with **Wi-Fi and BLE connectivity**
-- Clean, scalable firmware architecture
+I develop embedded firmware for microcontroller-based 
+systems, focused on:
+- Bare-metal and RTOS-based firmware (FreeRTOS)
+- Peripheral drivers : I2C, SPI, UART, GPIO, ADC
+- Wireless connectivity : Wi-Fi, BLE
+- Modular firmware architecture
 
 ---
 
-## 📁 Projects
+## 🛠️ Tech Stack
 
-My repositories focus on:
-- MCU architecture exploration
-- Register-level peripheral drivers
-- RTOS-based firmware
-- IoT connectivity experiments (Wi-Fi / BLE)
+| Category | Technologies |
+|---|---|
+| Languages | Embedded C |
+| MCU | STM32, ESP32 (ESP32 C6) |
+| RTOS | FreeRTOS |
+| Protocols | I2C, SPI, UART, ADC, BLE, WiFi |
+| Tools | GitHub, Doxygen, GDB, JTAG |
+
+---
+
+## 📁 Featured Projects
+
+### 🔹 STM32 Data Logger
+Bare-metal firmware on STM32 — I2C sensor, 
+SPI SD storage, UART, RTC, Bluetooth
+
+
+### 🔹 ESP32 IoT Firmware (Vaultage)
+FreeRTOS firmware for IoT product —
+tasks, queues, BLE, WiFi, modular architecture
+
 
 ---
 
 ## 📫 Contact
-
-- 💼 LinkedIn: www.linkedin.com/in/souber-web/
-- 📧 Email: ismaelsouber2@gmail.com
+💼 LinkedIn : linkedin.com/in/souber-web
+📧 Email : ismaelsouber2@gmail.com
