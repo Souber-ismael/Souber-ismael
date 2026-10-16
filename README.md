@@ -32,14 +32,13 @@ systems, focused on:
 
 ## 📁 Featured Projects
 
-### 🔹 STM32 Data Logger
-Bare-metal firmware on STM32 — I2C sensor, 
-SPI SD storage, UART, RTC, Bluetooth
+🔹 SASE — STM32 Environmental Data Logger
+FreeRTOS firmware (3 tasks, queues) — AHT20 over I2C, microSD over SPI, UART-DMA —
+supervisor state machine and hardware watchdog — unit tests (Unity/Ceedling) and
+GitHub Actions CI
 
 
-### 🔹 ESP32 IoT Firmware (Vaultage)
-FreeRTOS firmware for IoT product —
-tasks, queues, BLE, WiFi, modular architecture
+
 
 
 ---
