@@ -33,7 +33,7 @@ A real-time environmental data logger developed using STM32 and FreeRTOS.
 - Unit testing with Unity/Ceedling
 - Automated CI workflow using GitHub Actions
 
-** [🔗Explore the project repository](https://github.com/Souber-ismael/Firmware-temps-r-el-STM32-FreeRTOS-Data-Logger) **
+[🔗Explore the project repository](https://github.com/Souber-ismael/Firmware-temps-r-el-STM32-FreeRTOS-Data-Logger-) 
 
 ## 💼 Professional Experience
 
