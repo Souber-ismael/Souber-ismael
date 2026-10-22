@@ -1,48 +1,53 @@
-# Hi, I'm Souber 👋
+# Hi, I'm Ismael Souber 👋
 
-Embedded Firmware Engineer — Low-level C | 
-FreeRTOS | STM32 | ESP32
+**Junior Embedded Software Engineer | Embedded C | STM32 | ESP32 | FreeRTOS**
 
-📍 France | 💼 Open to CDI opportunities
+📍 France · Open to full-time opportunities (CDI)
 
----
+I develop embedded firmware for microcontroller-based systems, with a focus on low-level programming, real-time applications, hardware integration, and software reliability.
 
-## 🔧 What I Do
+My goal is to build reliable, maintainable firmware through modular design, systematic testing, and hands-on debugging.
 
-I develop embedded firmware for microcontroller-based 
-systems, focused on:
-- Bare-metal and RTOS-based firmware (FreeRTOS)
-- Peripheral drivers : I2C, SPI, UART, GPIO, ADC
-- Wireless connectivity : Wi-Fi, BLE
-- Modular firmware architecture
+## 🔧 Core Skills
 
----
+- **Embedded development:** C, bare-metal programming, FreeRTOS
+- **Microcontrollers:** STM32, ESP32 / ESP32-C6
+- **Peripherals and interfaces:** GPIO, ADC, I²C, SPI, UART, DMA
+- **Real-time systems:** task scheduling, queues, synchronization, watchdogs, state machines
+- **Connectivity:** Wi-Fi, Bluetooth Low Energy (BLE), HTTP
+- **Testing and debugging:** Unity, Ceedling, GDB, JTAG, logic analyzer, oscilloscope
+- **Tools and documentation:** Git, GitHub Actions, Doxygen, STM32CubeIDE, ESP-IDF
 
-## 🛠️ Tech Stack
+## 🚀 Featured Project
 
-| Category | Technologies |
-|---|---|
-| Languages | Embedded C |
-| MCU | STM32, ESP32 (ESP32 C6) |
-| RTOS | FreeRTOS |
-| Protocols | I2C, SPI, UART, ADC, BLE, WiFi |
-| Tools | GitHub, Doxygen, GDB, JTAG |
+### SASE — STM32 Environmental Data Logger
 
----
+A real-time environmental data logger developed using STM32 and FreeRTOS.
 
-## 📁 Featured Projects
+**Key features**
+- Concurrent task architecture with inter-task communication using queues
+- Environmental sensing with AHT20 over I²C
+- Data logging to a microSD card over SPI using FatFs
+- UART communication with DMA
+- Supervisor state machine and hardware watchdog
+- Unit testing with Unity/Ceedling
+- Automated CI workflow using GitHub Actions
 
-🔹 SASE — STM32 Environmental Data Logger
-FreeRTOS firmware (3 tasks, queues) — AHT20 over I2C, microSD over SPI, UART-DMA —
-supervisor state machine and hardware watchdog — unit tests (Unity/Ceedling) and
-GitHub Actions CI
+🔗 [Explore the project repository](https://github.com/Souber-ismael)
 
+## 💼 Professional Experience
 
+**Embedded Firmware Engineering Intern — Vaultage**
 
-
-
----
+- Developed embedded firmware in C for ESP32-C6.
+- Integrated sensors using I²C, GPIO, and ADC.
+- Implemented multitasking and synchronization with FreeRTOS.
+- Integrated Wi-Fi, BLE, and HTTP connectivity.
+- Contributed to unit testing, documentation, and firmware architecture.
 
 ## 📫 Contact
-💼 LinkedIn : linkedin.com/in/souber-web
-📧 Email : ismaelsouber2@gmail.com
+
+- **LinkedIn:** [linkedin.com/in/souber-web](https://linkedin.com/in/souber-web)
+- **Email:** [ismaelsouber2@gmail.com](mailto:ismaelsouber2@gmail.com)
+
+I'm always interested in discussing embedded firmware, real-time systems, and low-level software engineering.
