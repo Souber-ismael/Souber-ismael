@@ -2,7 +2,7 @@
 
 **Junior Embedded Software Engineer | Embedded C | STM32 | ESP32 | FreeRTOS**
 
-📍 France · Open to full-time opportunities (CDI)
+📍 France · Open to full-time opportunities (CDD/CDI)
 
 I develop embedded firmware for microcontroller-based systems, with a focus on low-level programming, real-time applications, hardware integration, and software reliability.
 
@@ -33,7 +33,7 @@ A real-time environmental data logger developed using STM32 and FreeRTOS.
 - Unit testing with Unity/Ceedling
 - Automated CI workflow using GitHub Actions
 
-🔗 [Explore the project repository](https://github.com/Souber-ismael)
+🔗 [Explore the project repository]([https://github.com/Souber-ismael](https://github.com/Souber-ismael/Firmware-temps-r-el-STM32-FreeRTOS-Data-Logger-))
 
 ## 💼 Professional Experience
 
